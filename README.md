@@ -1,0 +1,1 @@
+This repository contains examples of an uncommon HTML error where the direct modification of an element's textContent may not always work as expected. The `bug.html` file showcases the error, while `bugSolution.html` provides a solution using event listeners to ensure the element has loaded before modifying its content.
